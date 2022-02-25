@@ -153,9 +153,9 @@ yat:
 # Page default value
 # defaults:
 #   home:
-#     heading: "Your awesome heading"
-#     subheading: "Your awesome subheading"
-#     banner: "Your image url"
+#     heading: Bienvenido a Funtours tu mejor compañia 
+#     subheading: Seccion de imagenes 
+#     banner: https://www.turismomexico.es/wp-content/uploads/2016/12/museo_subacuatico_isla_mujeres.jpg
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
